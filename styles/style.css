@@ -1,0 +1,33 @@
+.slider {
+  margin-top: 100px;
+  background-color: #fceae8;
+}
+.subscribe_container {
+  height: 350px;
+}
+.custom_border {
+  border-radius: 10px 0px 0px 10px;
+}
+.custom_btn {
+  background: #ff589b;
+  color: rgb(255, 255, 255);
+  padding: 10px 30px;
+  text-decoration: none;
+  border-radius: 8px;
+  transition: 0.3s ease-in-out;
+}
+.custom_btn:hover {
+  background-color: rgb(99, 99, 99);
+  color: black;
+}
+.subscribe_btn {
+  background-color: #ff589b;
+  text-decoration: none;
+  color: #fff;
+  border-radius: 0px 10px 10px 0px;
+  transition: 0.3s ease-in-out;
+}
+.subscribe_btn:hover {
+  background: #fff;
+  color: #ff589b;
+}
